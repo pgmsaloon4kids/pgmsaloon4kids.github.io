@@ -2,7 +2,7 @@ title: "子どもプログラミング喫茶"
 author:
   name: 
   email: 
-description: 子どもプログラミング喫茶@京都は、子ども向けのプログラミング体験ワークショップです。
+description: 子どもプログラミング喫茶は、子ども向けのプログラミング体験ワークショップです。
 show_excerpts: false # set to true to show excerpts on the homepage
 baseurl: "/"
 
@@ -17,7 +17,7 @@ minima:
     github:  pgmsaloon4kids
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: ProgrammingSaloonForKIDS
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll

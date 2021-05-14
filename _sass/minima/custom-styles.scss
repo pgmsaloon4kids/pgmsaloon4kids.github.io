@@ -1,8 +1,18 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
+.site-header {
+    background-color: #1B823A;
+    .wrapper {
+        max-width: calc(800px - (10px * 2));
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+}
+
 .header-icon {
-    width: 200px;
+    height: 90%;
+    width: auto;
     margin-right: 1em;
     @media only screen and (max-width: 768px) {
         display: none;
@@ -37,14 +47,6 @@
     }
 }
 
-.site-header {
-    background-color: #1B823A;
-    .wrapper {
-        max-width: calc(800px - (10px * 2));
-        padding-right: 10px;
-        padding-left: 10px;
-    }
-}
 
 footer {
     background-color: #E2DCD5;
@@ -134,5 +136,14 @@ footer {
     margin-bottom: 2em;
     @media only screen and (max-width: 768px) {
         width: 120px;
+    }
+}
+
+
+#top {
+    ul {
+        li {
+            
+        }
     }
 }

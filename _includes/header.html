@@ -5,8 +5,8 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img src="{{ site.baseurl }}/assets/images/logo_data/21_H_eng.png" alt="喫茶アイコン" class="header-icon">
-      <img src="{{ site.baseurl }}/assets/images/icon.png" alt="喫茶アイコン" class="header-icon mobile">
+      <!-- <img src="/assets/images/logo.png" alt="喫茶アイコン" class="header-icon">
+      <img src="/assets/images/logo.png" alt="喫茶アイコン" class="header-icon mobile"> -->
       {{ site.title | escape }}
     </a>
 
@@ -25,7 +25,7 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <a class="page-link" href="/">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
         </div>

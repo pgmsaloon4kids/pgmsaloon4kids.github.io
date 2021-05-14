@@ -1,13 +1,44 @@
 ---
-layout: page
+layout: top
+permalink: /
 ---
-子どもプログラミング喫茶@京都は、子ども向けのプログラミング体験ワークショップです。一回15〜20分で、様々なプログラミングメニューを体験できます。
+<p style="display: flex; justify-content: center;">
+    <img src="/assets/images/logo.png" alt="logo" style="width:360px;">
+</p>
 
-## 2021
-2021年はオンライン会場でワークショップやトークセッション、作品展示などを開催します。[詳しくはこちらのページ]({{ site.baseurl }}/2021/)でお知らせしていきます。
+## 子どもプログラミング喫茶とは？
+子ども向けのプログラミング体験を喫茶店のメニューのようにご用意いたしております。ご注文いただいたメニューを喫茶店員に扮したスタッフが、ご体験のお手伝いをいたします。
+体験時間は15－20分、プログラミングが初めての方も、新しいことにチャレンジしてみたい方も大歓迎。お子様が優先ですが空いていれば大人の皆さんもご体験可能です。
+関連書籍やツールなども展示いたしますので、それらを見ながら情報共有する場としてもご活用ください。
 
-## 2020
-2020年5月2日〜3日 KICK（けいはんなオープンイノベーションセンター）で開催予定の[Maker Faire Kyoto 2020](https://makezine.jp/event/mfk2020/)は、オンライン開催のみとなり出店を見送ることになりました。また、来年お会いしましょう！
+## 最新情報
+5/1,2のゴールデンウィークに<a href="https://makezine.jp/blog/2021/04/kidsprogramingpark.html" target="blank">”子どもプログラミングパーク”</a>をオンライン開催します <a href="/kyoto/2021/">詳細情報</a>をご覧ください。
 
-## 2019
-2019年5月4日〜5日 KICK（けいはんなオープンイノベーションセンター）で開催されたました[Maker Faire Kyoto 2019](https://makezine.jp/event/mfk2019/)にて出店しました。[出店の詳細についてはこちら]({{ site.baseurl }}/2019/)をご覧ください。
+<a href="/calendar/" class="green-btn">開催記録・予定はこちら</a>
+
+## 子どもプログラミング喫茶各店のご案内
+
+### 東京本店（とうきょうほんてん）
+2016年に開店し、Maker Faire Tokyoなどのイベントを中心に活動中。店員は学生から社会人まで様々。出店イベントのお誘いや、店員参加希望など、お問い合わせは店長の[@qramo](https://twitter.com/qramo){:target="_blank"}まで。
+
+### [京都店（きょうとみせ）](/kyoto/)
+2019年、京都でのMaker Faire初開催に合わせて東京本店から暖簾分けをいただき開店。店員は学生から社会人まで様々。出店イベントのお声がけ、店員参加希望など、お問い合わせは店長の[@kwaka1208](https://twitter.com/kwaka1208){:target="_blank"}まで。
+
+### [香川店（かがわてん）](https://sanuki-tech.net/micro-bit/appendix-events/kids-programming-saloon-in-kagawa/){:target="_blank"}
+2019年に開店し、情報通信交流館e-とぴあ・かがわにて定期的に活動中。出店イベントのお誘いや、店員参加希望など、お問い合わせは店長の[@SanukiTechnet](https://twitter.com/SanukiTechnet){:target="_blank"}まで。
+ 
+## 子どもプログラミング喫茶の公式グッズができました
+<a href="https://suzuri.jp/pgmsaloon4kids" target="_blank" style="display: flex; justify-content: center;">
+    <img src="/assets/images/kissa_goods.jpg" alt="ご購入はSUZURIから">
+</a>
+
+## 加盟店募集中
+あなたも子どもプログラミング喫茶を始めてみませんか。現在47都道県出店を目指して活動中です。詳しくはお問い合わせください。
+
+## お問い合わせ
+各種お問い合わせ（ご取材、ご依頼、ご協力など）はメールや各種SNSのメッセージでお気軽にどうぞ
+
+pgmsaloon4kids@gmail.com
+
+- [Facebookページ](https://www.facebook.com/ProgrammingSaloonForKIDS/){:target="_blank"}
+- [Twitter](https://twitter.com/pgmsaloon4kids){:target="_blank"}
