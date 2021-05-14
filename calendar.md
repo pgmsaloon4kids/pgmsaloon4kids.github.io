@@ -1,5 +1,5 @@
 ---
-layout: top
+layout: page
 permalink: /calendar/
 ---
 ## 子どもプログラミング喫茶開催中
