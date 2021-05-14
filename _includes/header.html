@@ -10,6 +10,7 @@
       {{ site.title | escape }}
     </a>
 
+    {%- if false -%}
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -30,6 +31,7 @@
           {%- endfor -%}
         </div>
       </nav>
+    {%- endif -%}
     {%- endif -%}
   </div>
 </header>
