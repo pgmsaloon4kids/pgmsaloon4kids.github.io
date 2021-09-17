@@ -1,5 +1,5 @@
 ---
-layout: kyoto
+layout: tokyo
 permalink: /tokyo/
 title: 子どもプログラミング喫茶 東京本店
 ---
