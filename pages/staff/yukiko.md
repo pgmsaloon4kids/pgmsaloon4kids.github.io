@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/yukiko
-title: yukikoの展示ページ
+title: yukikoのページ
 author: yukiko
 icon: true
 ---

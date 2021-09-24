@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/Nucumo
-title: Nucumoの展示ページ
+title: Nucumoのページ
 author: Nucumo
 ---
 #### nztm

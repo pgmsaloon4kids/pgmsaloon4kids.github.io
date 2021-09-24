@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/spirit-of-bijyutsu
-title: 田中 信圭の展示ページ
+title: 田中 信圭のページ
 author: spirit-of-bijyutsu
 icon: true
 ---

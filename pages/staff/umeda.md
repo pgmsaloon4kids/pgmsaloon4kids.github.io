@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/umeda
-title: うめだの展示ページ
+title: うめだのページ
 author: umeda
 icon: true
 ---

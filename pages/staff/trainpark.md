@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/trainpark-r
-title: 北川 諒の展示ページ
+title: 北川 諒のページ
 author: trainpark-r
 icon: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/tsujimoto
-title: もっさんの展示ページ
+title: もっさんのページ
 author: tsujimoto
 icon: true
 ---

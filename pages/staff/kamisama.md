@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/kamisama-tekitou
-title: 新濱 優一の展示ページ
+title: 新濱 優一のページ
 author: kamisama-tekitou
 icon: true
 ---

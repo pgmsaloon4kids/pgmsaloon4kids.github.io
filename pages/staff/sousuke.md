@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/sousuke
-title: 川口聡介の展示ページ
+title: 川口聡介のページ
 author: sousuke
 icon: true
 ---

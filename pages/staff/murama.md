@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /kyoto/staff/murama
-title: むらまの展示ページ
+title: むらまのページ
 author: murama
 icon: true
 ---

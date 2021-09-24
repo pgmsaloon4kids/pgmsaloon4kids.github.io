@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/ishikawa
-title: 石川善行の展示ページ
+title: 石川善行のページ
 author: ishikawa
 icon: true
 ---
