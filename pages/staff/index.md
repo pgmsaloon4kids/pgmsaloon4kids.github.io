@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /staff/
-title: 子どもプログラミングパークスタッフ展示一覧
+title: 子どもプログラミングパークスタッフページ一覧
 ---
 ## {{ page.title }}
 - [akari](https://pgmsaloon4kids.github.io/staff/akari){:target="_blank"}
