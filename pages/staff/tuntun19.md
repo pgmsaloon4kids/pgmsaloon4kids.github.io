@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/tuntun19
-title: tuntun19の展示ページ
+title: tuntun19のページ
 author: tuntun19
 icon: true
 ---

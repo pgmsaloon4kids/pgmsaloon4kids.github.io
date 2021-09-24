@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/yuppy
-title: yuppyの展示ページ
+title: yuppyのページ
 author: yuppy
 icon: true
 ---

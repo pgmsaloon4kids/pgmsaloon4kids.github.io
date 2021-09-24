@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/senbo-muneya
-title: 泉保宗也の展示ページ
+title: 泉保宗也のページ
 author: senbo-muneya
 icon: true
 ---

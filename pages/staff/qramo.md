@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/qramo
-title: 倉本大資の展示ページ
+title: 倉本大資のページ
 author: qramo
 icon: true
 ---

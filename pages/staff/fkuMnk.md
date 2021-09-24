@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/fkuMnk
-title: fkuMnkの展示ページ
+title: fkuMnkのページ
 author: fkuMnk
 icon: true
 ---

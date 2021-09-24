@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/Dragon-k
-title: Dragon-kの展示ページ
+title: Dragon-kのページ
 author: Dragon-k
 ---
 - 名前：Dragon-k

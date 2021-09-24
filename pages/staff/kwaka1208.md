@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/kwaka1208
-title: わかの展示ページ
+title: わかのページ
 author: kwaka1208
 icon: true
 ---

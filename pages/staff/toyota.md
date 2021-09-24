@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/toyota
-title: 豊田陽介の展示ページ
+title: 豊田陽介のページ
 author: toyota
 icon: true
 ---

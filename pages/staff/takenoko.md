@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/takenoko
-title: takenokoの展示ページ
+title: takenokoのページ
 author: takenoko
 icon: true
 ---

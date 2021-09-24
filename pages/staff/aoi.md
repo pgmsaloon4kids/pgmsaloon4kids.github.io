@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/aoi
-title: 大澤 葵の展示ページ
+title: 大澤 葵のページ
 author: aoi
 icon: true
 ---

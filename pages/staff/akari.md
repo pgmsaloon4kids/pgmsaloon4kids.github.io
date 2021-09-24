@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/akari
-title: 川口明莉の展示ページ
+title: 川口明莉のページ
 author: akari
 icon: true
 ---
