@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/qramo
+permalink: /staff/qramo
 title: 倉本大資の展示ページ
 author: qramo
 icon: true

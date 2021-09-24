@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/Nucumo
+permalink: /staff/Nucumo
 title: Nucumoの展示ページ
 author: Nucumo
 ---

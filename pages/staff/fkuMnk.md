@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/fkuMnk
+permalink: /staff/fkuMnk
 title: fkuMnkの展示ページ
 author: fkuMnk
 icon: true

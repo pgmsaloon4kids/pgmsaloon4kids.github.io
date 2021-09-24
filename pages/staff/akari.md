@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/akari
+permalink: /staff/akari
 title: 川口明莉の展示ページ
 author: akari
 icon: true

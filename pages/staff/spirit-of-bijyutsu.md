@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/spirit-of-bijyutsu
+permalink: /staff/spirit-of-bijyutsu
 title: 田中 信圭の展示ページ
 author: spirit-of-bijyutsu
 icon: true

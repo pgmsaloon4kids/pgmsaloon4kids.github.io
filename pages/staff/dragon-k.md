@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/Dragon-k
+permalink: /staff/Dragon-k
 title: Dragon-kの展示ページ
 author: Dragon-k
 ---

@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/trainpark-r
+permalink: /staff/trainpark-r
 title: 北川 諒の展示ページ
 author: trainpark-r
 icon: true

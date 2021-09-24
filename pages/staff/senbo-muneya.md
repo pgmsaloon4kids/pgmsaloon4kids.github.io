@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/senbo-muneya
+permalink: /staff/senbo-muneya
 title: 泉保宗也の展示ページ
 author: senbo-muneya
 icon: true

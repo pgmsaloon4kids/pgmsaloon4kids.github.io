@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/aoi
+permalink: /staff/aoi
 title: 大澤 葵の展示ページ
 author: aoi
 icon: true

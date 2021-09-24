@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/kamisama-tekitou
+permalink: /staff/kamisama-tekitou
 title: 新濱 優一の展示ページ
 author: kamisama-tekitou
 icon: true
