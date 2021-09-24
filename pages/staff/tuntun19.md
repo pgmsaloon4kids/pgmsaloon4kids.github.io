@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/tuntun19
+permalink: /staff/tuntun19
 title: tuntun19の展示ページ
 author: tuntun19
 icon: true

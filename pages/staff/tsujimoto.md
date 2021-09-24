@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/tsujimoto
+permalink: /staff/tsujimoto
 title: もっさんの展示ページ
 author: tsujimoto
 icon: true

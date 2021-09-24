@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/umeda
+permalink: /staff/umeda
 title: うめだの展示ページ
 author: umeda
 icon: true

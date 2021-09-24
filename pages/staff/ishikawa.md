@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/ishikawa
+permalink: /staff/ishikawa
 title: 石川善行の展示ページ
 author: ishikawa
 icon: true

@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/takenoko
+permalink: /staff/takenoko
 title: takenokoの展示ページ
 author: takenoko
 icon: true

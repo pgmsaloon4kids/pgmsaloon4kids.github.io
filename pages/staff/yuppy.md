@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/yuppy
+permalink: /staff/yuppy
 title: yuppyの展示ページ
 author: yuppy
 icon: true

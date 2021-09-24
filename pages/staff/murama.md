@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/kyoto/exhibition/murama
+permalink: /kyoto/staff/murama
 title: むらまの展示ページ
 author: murama
 icon: true

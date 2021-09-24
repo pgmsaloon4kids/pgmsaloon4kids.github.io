@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/sousuke
+permalink: /staff/sousuke
 title: 川口聡介の展示ページ
 author: sousuke
 icon: true

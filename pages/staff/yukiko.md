@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/yukiko
+permalink: /staff/yukiko
 title: yukikoの展示ページ
 author: yukiko
 icon: true

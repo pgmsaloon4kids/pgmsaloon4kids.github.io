@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/toyota
+permalink: /staff/toyota
 title: 豊田陽介の展示ページ
 author: toyota
 icon: true

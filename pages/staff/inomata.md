@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/inomata
+permalink: /staff/inomata
 title: いのまたさんの展示ページ
 author: inomata
 icon: true

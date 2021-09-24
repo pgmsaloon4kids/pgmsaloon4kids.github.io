@@ -1,6 +1,6 @@
 ---
 layout: exhibition
-permalink: /kyoto/exhibition/kwaka1208
+permalink: /staff/kwaka1208
 title: わかの展示ページ
 author: kwaka1208
 icon: true
