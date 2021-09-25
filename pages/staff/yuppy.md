@@ -6,17 +6,17 @@ author: yuppy
 icon: true
 ---
 - 名前：Yuppy
-- 学年：33歳
+- 学年：昭和62年生
 - 住んでるところ：茨城県
-- プログラミング歴：2年半
+- プログラミング歴：3年
 
 ### やったことのあるプログラミング言語やツール
 
-Ruby、Rails、JavaScript、HTML/CSS、PHP
+Ruby、Rails、JavaScript、HTML/CSS、PHP、jekyll
 
 ### 好きな（得意な）プログラミング言語やツール
 
-Rails
+Rails、Ruby
 
 ### いつからプログラミングをやってますか？
 
