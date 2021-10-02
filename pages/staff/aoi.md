@@ -27,7 +27,7 @@ icon: true
 - 作品名： レインボーアート RainbowArt
 - 言語（ツール）： Scratch
 
-![レインボーアート]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+![レインボーアート]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
 ### 作品の説明
 
@@ -46,7 +46,7 @@ icon: true
 - 作品名： タングラム
 - 言語（ツール）： enchant.js(Javascript)
 
-![タングラム]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/02.png)
+![タングラム]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/02.png)
 
 ### 作品の説明
 

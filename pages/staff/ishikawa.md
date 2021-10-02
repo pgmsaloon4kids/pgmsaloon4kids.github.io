@@ -27,7 +27,7 @@ Scratch
 - 作品名：イライラめいろ [https://scratch.mit.edu/projects/316305709/](https://scratch.mit.edu/projects/316305709/)
 - 言語（ツール）：Scratch
 
-![イライラめいろ]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+![イライラめいろ]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
 ### 作品の説明
 

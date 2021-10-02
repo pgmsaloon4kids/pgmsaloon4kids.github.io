@@ -27,7 +27,7 @@ Rails、Ruby
 - 作品名：[ブロック崩し](https://scratch.mit.edu/projects/519019526)
 - 言語（ツール）：Scratch
 
-    ![ブロック崩しgif]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/blockgame.gif)
+    ![ブロック崩しgif]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/blockgame.gif)
 
 ### 作品の説明
 

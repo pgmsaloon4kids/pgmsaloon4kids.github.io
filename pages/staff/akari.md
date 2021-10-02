@@ -37,23 +37,23 @@ Scratch、Unity
 
 最初の画面
 
-![あなたにおすすめあなたにおすすめ！プログラミング説明0]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/00.png)
+![あなたにおすすめあなたにおすすめ！プログラミング説明0]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/00.png)
 
 このように質問に答えていくと。。。
 
-![あなたにおすすめあなたにおすすめ！プログラミング説明1]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+![あなたにおすすめあなたにおすすめ！プログラミング説明1]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
 あなたにおすすめのプログラミングソフトを教えてくれます！
 
-![あなたにおすすめあなたにおすすめ！プログラミング説明2]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/02.png)
+![あなたにおすすめあなたにおすすめ！プログラミング説明2]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/02.png)
 
 プログラミングソフトを書きだし、それぞれの特徴をExcelでまとめた
 
-![あなたにおすすめあなたにおすすめ！プログラミング説明3]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/03.png)
+![あなたにおすすめあなたにおすすめ！プログラミング説明3]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/03.png)
 
 どの質問でおすすめのプログラミングまでいくのか道順を手書きで書いた
 
-![あなたにおすすめあなたにおすすめ！プログラミング説明4]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/04.jpg)
+![あなたにおすすめあなたにおすすめ！プログラミング説明4]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/04.jpg)
 
 ### 作品の説明
 
@@ -82,9 +82,9 @@ Scratch、Unity
 - 作品名：[マークみっけ！for SDGs](https://marksdgs.net/test/){:target="_blank"}
 - 言語（ツール）：Stretch3
 
-![マークみっけ！for SDGs 画像1]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/05.png)
+![マークみっけ！for SDGs 画像1]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/05.png)
 
-![マークみっけ！for SDGs 画像2]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/06.png)
+![マークみっけ！for SDGs 画像2]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/06.png)
 
 ### 作品の説明
 

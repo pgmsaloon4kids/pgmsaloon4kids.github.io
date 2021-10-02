@@ -40,7 +40,7 @@ JAVA、C#、Python、SQL
 - 作品名：まほうのしょ（micro:bit作品）
 - 言語（ツール）：micro Python、C言語
 
-![まほうのしょ]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+![まほうのしょ]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
 <div class="youtube">
   <iframe src="https://www.youtube.com/embed/Ggl_MrOXplU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -69,7 +69,7 @@ micro:bitでもAIが使えることを知り、子供でも楽しめるものを
 - 作品名：[ズダダ打！タイピング練習](https://scratch.mit.edu/projects/357706167/)
 - 言語（ツール）：Scratch
 
-![ズダダ打！タイピング練習]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/02.png)
+![ズダダ打！タイピング練習]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/02.png)
 
 [https://scratch.mit.edu/projects/357706167/](https://scratch.mit.edu/projects/357706167/)
 
@@ -93,7 +93,7 @@ micro:bitでもAIが使えることを知り、子供でも楽しめるものを
 - 作品名：もじモジおぼえちゃお（iOSアプリ）
 - 言語（ツール）：Objective-C
 
-![もじモジおぼえちゃお]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/03.png)
+![もじモジおぼえちゃお]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/03.png)
 
 ### 作品の説明
 

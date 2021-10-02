@@ -27,7 +27,7 @@ Scratch
 - 作品名：[四方から迫りくるネコ逃げ](https://scratch.mit.edu/projects/240754428/)
 - 言語（ツール）：Scratch
 
-    ![ブロック崩しgif]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+    ![ブロック崩しgif]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
 ### 作品の説明
 

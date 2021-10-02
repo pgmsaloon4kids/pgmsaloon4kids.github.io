@@ -27,7 +27,7 @@ Scratch
 - 作品名：[ScratchでTikTok投稿中](https://www.tiktok.com/@qramojo?)
 - 言語（ツール）：Scratch, TikTok
 
-    ![ScratchでTikTok投稿中]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+    ![ScratchでTikTok投稿中]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
 ### 作品の説明
 

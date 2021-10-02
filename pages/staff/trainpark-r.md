@@ -32,7 +32,7 @@ HackforPlay
 - 作品名：本格的クレーンゲーム
 - 言語（ツール）：HackforPlay
 
-![本格的クレーンゲーム]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+![本格的クレーンゲーム]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
 [https://www.hackforplay.xyz/works/bBvyyrbN0B22cYDHk6Fh](https://www.hackforplay.xyz/works/bBvyyrbN0B22cYDHk6Fh)
 
@@ -59,7 +59,7 @@ Scratchなどと違って、画像を入れたりできないので、いわな�
 - 作品名：ハックで絵合わせ
 - 言語（ツール）：HackforPlay
 
-![ハックで絵合わせ]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/02.png)
+![ハックで絵合わせ]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/02.png)
 
 [https://www.hackforplay.xyz/works/VkQMsTnbYdnYXr1Z1MH1](https://www.hackforplay.xyz/works/VkQMsTnbYdnYXr1Z1MH1)
 
@@ -86,7 +86,7 @@ HackforPlayで、まだ誰も作ったことのない、カードゲームを作
 - 作品名：ハックでゴルフ～ホールインワンを目指せ～
 - 言語（ツール）：HackforPlay
 
-    ![ハックでゴルフ～ホールインワンを目指せ～]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/03.png)
+    ![ハックでゴルフ～ホールインワンを目指せ～]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/03.png)
 
     [https://www.hackforplay.xyz/works/AkCZTEnWmx3PUKbZmCmM](https://www.hackforplay.xyz/works/AkCZTEnWmx3PUKbZmCmM)
 

@@ -29,7 +29,7 @@ WordPress, PHP, Svelte, Firebase, GitLab
 - 作品名：真・コードを書いて画面内のキャラクターを動かす
 - 言語（ツール）：Phaser 3 (JavaScript, HTML5)
 
-![01.png]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+![01.png]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
 [https://zenn.dev/fkumnk/articles/6ef7b8bf4cc477](https://zenn.dev/fkumnk/articles/6ef7b8bf4cc477)
 
@@ -53,7 +53,7 @@ WordPress, PHP, Svelte, Firebase, GitLab
 - 作品名：続・コードを書いてステータス画面を表示する
 - 言語（ツール）：Svelte (HTML, CSS)
 
-![02.png]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/02.png)
+![02.png]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/02.png)
 
 [https://zenn.dev/fkumnk/articles/6ef7b8bf4cc477](https://zenn.dev/fkumnk/articles/6ef7b8bf4cc477)
 

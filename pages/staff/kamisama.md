@@ -38,7 +38,7 @@ icon: true
 - 作品名：新規登録機能&ログイン機能
 - 言語（ツール）：PHP&MySQL
 
-![新規登録機能&ログイン機能]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+![新規登録機能&ログイン機能]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
 ### 作品の説明
 

@@ -27,7 +27,7 @@ C（ポインタ得意です）
 - 作品名：[First Mission](https://scratch.mit.edu/projects/68155398/)
 - 言語（ツール）：Scratch
 
-    ![First Mission]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+    ![First Mission]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
 ### 作品の説明
 
@@ -46,7 +46,7 @@ C（ポインタ得意です）
 - 作品名：[100m走 / 100m Sprint remix with micro:bit](https://scratch.mit.edu/projects/279168171/)
 - 言語（ツール）：Scratch
 
-    ![100m走 / 100m Sprint remix with micro:bit]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/02.png)
+    ![100m走 / 100m Sprint remix with micro:bit]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/02.png)
 
 ### 作品の説明
 

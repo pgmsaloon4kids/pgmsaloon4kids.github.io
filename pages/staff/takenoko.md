@@ -33,7 +33,7 @@ Unity は中 2 ぐらいからやり始めました
 
 ### 作品の説明
 
-![VirtualRobot]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+![VirtualRobot]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
 #### 動画
 
@@ -68,7 +68,7 @@ Unity は中 2 ぐらいからやり始めました
 - 作品名：PONPON 模様
 - 言語（ツール）：Unity
 
-![PONPON模様]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/02.jpeg)
+![PONPON模様]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/02.jpeg)
 
 ### 作品の説明
 

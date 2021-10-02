@@ -5,14 +5,14 @@ title: Nucumoのページ
 author: Nucumo
 ---
 #### nztm
-<img src="{{ site.baseurl }}/assets/images/exhibition/icon/nztm.png" class="icon">
+<img src="{{ site.baseurl }}/assets/images/staff/icon/nztm.png" class="icon">
 - 名前：nztm
 - 学年：18歳
 - 住んでるところ：兵庫
 - プログラミング歴：6年くらい？
 
 #### yuki384
-<img src="{{ site.baseurl }}/assets/images/exhibition/icon/yuki384.png" class="icon">
+<img src="{{ site.baseurl }}/assets/images/staff/icon/yuki384.png" class="icon">
 - 名前：yuki384
 - 学年：17歳
 - 住んでるところ：東京
@@ -38,8 +38,8 @@ yuki384: 小学6年のときから
 - 作品名：[メクルン](https://mekurun.com/)
 - 言語（ツール）：HTML/CSS, JavaScript, Jekyll
 
-    ![メクルン1]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
-    ![メクルン2]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/02.png)
+    ![メクルン1]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
+    ![メクルン2]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/02.png)
 
 ### 作品の説明
 

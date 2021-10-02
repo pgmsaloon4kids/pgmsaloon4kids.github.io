@@ -27,7 +27,7 @@ icon: true
 - 作品名： [元号ルーレット](https://scratch.mit.edu/projects/312810168/)
 - 言語（ツール）： Scratch
 
-![元号ルーレット]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+![元号ルーレット]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
 ### 作品の説明
 
