@@ -1,7 +1,7 @@
 ---
 layout: exhibition
 permalink: /staff/inomata
-title: いのまたさんのページ
+title: いのっちさんのページ
 author: inomata
 icon: true
 ---
