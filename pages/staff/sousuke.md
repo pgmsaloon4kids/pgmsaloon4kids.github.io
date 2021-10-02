@@ -34,9 +34,9 @@ HackforPlay
 
 [https://scratch.mit.edu/projects/511223753/](https://scratch.mit.edu/projects/511223753/)
 
-![Explore the deep sea!1]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+![Explore the deep sea!1]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
-![Explore the deep sea!2]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/02.png)
+![Explore the deep sea!2]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/02.png)
 
 ### 作品の説明
 

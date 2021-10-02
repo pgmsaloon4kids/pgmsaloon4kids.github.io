@@ -27,7 +27,7 @@ Windows 95が出たときから
 - 作品名：[漢字謎解きアクション「勇」の冒険](https://scratch.mit.edu/projects/169268428/)
 - 言語（ツール）：Scratch
 
-    ![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/1.png)
+    ![]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/1.png)
 
 ### 作品の説明
 

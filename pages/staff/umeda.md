@@ -31,7 +31,7 @@ ArduinoとかAVRマイコンをよく触ってました。
 - 作品名：[ピンボールランナー](https://scratch.mit.edu/projects/417067531/)
 - 言語（ツール）：Scratch
 
-    ![ピンボールランナー]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+    ![ピンボールランナー]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
 ### 作品の説明
 
@@ -58,7 +58,7 @@ ArduinoとかAVRマイコンをよく触ってました。
 - 作品名：[とってもたのしいブロック崩し](https://scratch.mit.edu/projects/520731268/)
 - 言語（ツール）：Scratch
 
-![とってもたのしいブロック崩し]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/02.png)
+![とってもたのしいブロック崩し]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/02.png)
 
 ### 作品の説明
 

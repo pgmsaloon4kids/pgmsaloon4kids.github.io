@@ -35,7 +35,7 @@ author: Dragon-k
 - 作品名：【戦闘システム】ドラk&ネルソー戦!!
 - 言語（ツール）：Scratch
 
-![【戦闘システム】ドラk&ネルソー戦!!]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+![【戦闘システム】ドラk&ネルソー戦!!]({{ site.baseurl }}/assets/images/staff/{{ page.author }}/01.png)
 
 ### 作品の説明
 
