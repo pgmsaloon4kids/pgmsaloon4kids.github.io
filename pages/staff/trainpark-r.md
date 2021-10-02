@@ -1,11 +1,11 @@
 ---
 layout: exhibition
 permalink: /staff/trainpark-r
-title: 北川 諒のページ
+title: 鉄道パークRのページ
 author: trainpark-r
 icon: true
 ---
-- 名前：北川　諒
+- 名前：鉄道パークR
 - 学年：小学６年生
 - 住んでるところ：東京都
 - プログラミング歴：1年2カ月
