@@ -79,7 +79,7 @@ Scratch、Unity
 
 ## 作品紹介２
 
-- 作品名：マークみっけ！for SDGs
+- 作品名：[マークみっけ！for SDGs](https://marksdgs.net/test/){:target="_blank"}
 - 言語（ツール）：Stretch3
 
 ![マークみっけ！for SDGs 画像1]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/05.png)
@@ -95,6 +95,10 @@ Scratch、Unity
 この作品の紹介動画です。ぜひ見てください！！！
 
 [https://www.youtube.com/watch?v=zUqr7im2ABE](https://www.youtube.com/watch?v=zUqr7im2ABE)
+
+こちらで実際に動かすこともできます！
+
+[マークみっけ！for SDGs](https://marksdgs.net/test/){:target="_blank"}
 
 ### これを作ろうと思った理由
 
