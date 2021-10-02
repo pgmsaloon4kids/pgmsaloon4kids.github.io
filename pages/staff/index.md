@@ -25,4 +25,5 @@ title: 子どもプログラミングパークスタッフページ一覧
 - [umeda](https://pgmsaloon4kids.github.io/staff/umeda){:target="_blank"}
 - [yukiko](https://pgmsaloon4kids.github.io/staff/yukiko){:target="_blank"}
 - [yuppy](https://pgmsaloon4kids.github.io/staff/yuppy){:target="_blank"}
+- [jishiha](https://pgmsaloon4kids.github.io/staff/jishiha){:target="_blank"}
 
