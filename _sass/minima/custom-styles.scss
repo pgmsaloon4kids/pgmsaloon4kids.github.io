@@ -147,3 +147,38 @@ footer {
         }
     }
 }
+
+#menu {
+    h1 {
+        text-align: center;
+    }
+    div.menu {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
+        grid-gap: 15px;
+        padding: 15px 60px 60px 60px;
+        .card {
+            border: #1B823A solid 1px;
+            border-radius: 30px;
+            padding: 20px;
+            .title {
+                font-weight: 600;
+                text-align: center;
+                margin-bottom: 5px;
+            }
+            .thumbnail {
+                width: 70%;
+                height: auto;
+                margin-left: 12.5%;
+                margin-right: 12.5%;
+            }
+            .explation{
+                margin-top: 5px;
+
+            }
+            .tags {
+                list-style: none;
+            }
+        }
+    }
+}
