@@ -16,7 +16,7 @@ https://www.facebook.com/ProgrammingSaloonForKIDS/
 
 ### Maker Faire Kyoto 2019の様子
 
-[その他の写真はこちらでご覧になれます]()
+[その他の写真はこちらでご覧になれます](https://photos.app.goo.gl/tmYLfDhunEky6zhk7)
 
 ## コンセプト・考え方
 
