@@ -5,3 +5,6 @@
   2. Customize default _includes/custom-head.html in your source directory and insert the given code snippet.
 {% endcomment %}
 <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico">
+{% if page.sitemap == false %}
+<meta name="robots" content="noindex">
+{% endif %}
