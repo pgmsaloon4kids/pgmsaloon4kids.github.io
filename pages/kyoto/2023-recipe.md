@@ -14,9 +14,7 @@ title: 子どもプログラミング喫茶 京都店2023レシピ
 
 ## メニュー
 - [気圧変化で身長を測ってみよう](https://399.jp/c1)
-- 
-    - [完成版](https://scratch.mit.edu/projects/841423226/)
-    - [未完成版](https://scratch.mit.edu/projects/841440403/)
+- [自分だけのピアノを作ろう](https://scratch.mit.edu/projects/842015943/)
 - p5.jsでデジタルアート
     - [スライド](https://docs.google.com/presentation/d/1J8cxgNk3Bt_Gz84ZyQuvSRO45tfcSTxTqoNtn1lvbww/edit?usp=sharing)
     - [新バージョン1](https://editor.p5js.org/toyota_ref/sketches/NVfJwXJFm)
