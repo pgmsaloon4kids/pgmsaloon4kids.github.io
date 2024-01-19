@@ -17,9 +17,11 @@ sitemap: false
 https://www.facebook.com/ProgrammingSaloonForKIDS/
 
 ### これまでのMaker Faire Kyotoの様子
-Maker Faire Kyotoは2019年に一回目が開催されました。しかし、COVID-19の影響で
+Maker Faire Kyotoは2019年に一回目が開催されました。しかし、COVID-19の影響でその後は中止やオンラインのみ、限定開催などが続き、2023年にリアルのフル開催で再開、今年が実質的な三回目となります。
 
-[その他の写真はこちらでご覧になれます](https://photos.app.goo.gl/tmYLfDhunEky6zhk7)
+[2019年に参加した子どもたちの感想（付箋です）](https://photos.app.goo.gl/BNm3M8D8TbpAsk2HA)
+
+[2023年に参加した子どもたちの感想（付箋です）](https://photos.app.goo.gl/KEiMYdXHyskbCZ7C7)
 
 ## コンセプト・考え方
 来場者、スタッフのみなさんが以下のことを得られることを狙いとして企画・運営します。
