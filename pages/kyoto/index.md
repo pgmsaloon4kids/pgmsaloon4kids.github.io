@@ -3,6 +3,11 @@ layout: kyoto
 permalink: /kyoto/
 title: 子どもプログラミング喫茶 京都店
 ---
+## 2024
+2024年4月27日〜28日 KICK（けいはんなオープンイノベーションセンター）で開催されます[Maker Faire Kyoto 2024](https://makezine.jp/event/mfk2024/)にて出店します。
+
+現在、一緒に出店してくださる店員さんなど、協力してくださる方を募集しています。[説明会を開催しますので、ぜひこちら](/kyoto/recruitment/)をご覧ください。
+
 ## 2023
 2023年4月29日〜30日 KICK（けいはんなオープンイノベーションセンター）で開催されます[Maker Faire Kyoto 2023](https://makezine.jp/event/mfk2023/)にて出店します。[出店の詳細についてはこちら](/kyoto/2023/)をご覧ください。
 
