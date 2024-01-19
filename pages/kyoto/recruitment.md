@@ -13,8 +13,9 @@ sitemap: false
 
 2016年より[OtOMO](https://otomo.scratch-ja.org/)の倉本さんが先導し、OtOMO、他団体、大学ゼミなどが協力し、コミュニティベースのブース運営を行っています。
 
-子どもプログラミング喫茶Facebookページ
-https://www.facebook.com/ProgrammingSaloonForKIDS/
+- 子どもプログラミング喫茶公式アカウント
+    - [Facebookページ](https://www.facebook.com/ProgrammingSaloonForKIDS/)
+    - [X（旧Twitter）](https://twitter.com/pgmsaloon4kids)
 
 ### これまでのMaker Faire Kyotoの様子
 Maker Faire Kyotoは2019年に一回目が開催されました。しかし、COVID-19の影響でその後は中止やオンラインのみ、限定開催などが続き、2023年にリアルのフル開催で再開、今年が実質的な三回目となります。
