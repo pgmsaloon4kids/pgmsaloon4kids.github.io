@@ -18,6 +18,15 @@ sitemap: false
     - [X（旧Twitter）](https://twitter.com/pgmsaloon4kids)
 
 ### これまでのMaker Faire Kyotoの様子
+#### ワークショップの様子
+ワークショップは、参加者とスタッフが一対一で進めます。慣れないうちは、他のスタッフの様子を見ていただいて結構です。
+
+<div class="photos">
+    <img src="/assets/images/kyoto/recruitment/ws01.jpg">
+    <img src="/assets/images/kyoto/recruitment/ws03.jpg">
+    <img src="/assets/images/kyoto/recruitment/ws04.jpg">
+</div>
+
 #### 参加者のみなさんからいただいた感想
 体験後、感想を付箋に書いていただいています。すべての感想を以下のリンク先でご覧いただけます。
 - [2019年に参加した子どもたちの感想（付箋）](https://photos.app.goo.gl/BNm3M8D8TbpAsk2HA)
