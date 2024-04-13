@@ -182,3 +182,34 @@ footer {
         }
     }
 }
+
+
+.photos {
+    display: flex;
+    width: 100%;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-start;
+    img {
+        width: 100%;
+        height: auto;
+        margin: 1rem;
+    }
+}
+@media screen and (min-width: $on-large) {
+    .photos {
+        img {
+            width: 40%;
+        }
+    }
+}
+
+@media screen and (min-width: $on-medium) {
+    .photos {
+        img {
+            width: 40%;
+        }
+    }
+}
+
+

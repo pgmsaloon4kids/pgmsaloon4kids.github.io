@@ -18,11 +18,17 @@ sitemap: false
     - [X（旧Twitter）](https://twitter.com/pgmsaloon4kids)
 
 ### これまでのMaker Faire Kyotoの様子
-Maker Faire Kyotoは2019年に一回目が開催されました。しかし、COVID-19の影響でその後は中止やオンラインのみ、限定開催などが続き、2023年にリアルのフル開催で再開、今年が実質的な三回目となります。
+#### 参加者のみなさんからいただいた感想
+体験後、感想を付箋に書いていただいています。すべての感想を以下のリンク先でご覧いただけます。
+- [2019年に参加した子どもたちの感想（付箋）](https://photos.app.goo.gl/BNm3M8D8TbpAsk2HA)
+- [2023年に参加した子どもたちの感想（付箋）](https://photos.app.goo.gl/KEiMYdXHyskbCZ7C7)
 
-[2019年に参加した子どもたちの感想（付箋です）](https://photos.app.goo.gl/BNm3M8D8TbpAsk2HA)
-
-[2023年に参加した子どもたちの感想（付箋です）](https://photos.app.goo.gl/KEiMYdXHyskbCZ7C7)
+<div class="photos">
+    <img src="/assets/images/kyoto/recruitment/fusen01.jpg">
+    <img src="/assets/images/kyoto/recruitment/fusen02.jpg">
+    <img src="/assets/images/kyoto/recruitment/fusen03.jpg">
+    <img src="/assets/images/kyoto/recruitment/fusen04.jpg">
+</div>
 
 ## コンセプト・考え方
 来場者、スタッフのみなさんが以下のことを得られることを狙いとして企画・運営します。
@@ -48,10 +54,6 @@ Maker Faire Kyotoは2019年に一回目が開催されました。しかし、CO
 - 場所：[けいはんなオープンイノベーションセンター（KICK）](http://kick.kyoto/) / [Google Map](https://goo.gl/maps/7qXoTdHwSpr)
 - 公式サイト：[https://makezine.jp/event/mfk2024/](https://makezine.jp/event/mfk2024/)
 
-## 子どもプログラミング喫茶 京都店説明会について
-子どもプログラミング喫茶 京都店説明会を開催します。参加ご希望の方は以下のリンク先にありますフォームよりお申し込みください。開催日時についてもフォームの中に記載しております。
+## お問い合わせお待ちしています
+子どもプログラミング喫茶に関心を持ってくださった方、ぜひ[hello@crssrds.jp](mailto:hello@crssrds.jp)までメールでご連絡ください。京都店の店長若林がご案内します（[若林のプロフィールはこちら](https://crssrds.jp/about/){:target="_blank"}をご覧ください）
 
-[説明会参加申し込みフォーム](https://forms.gle/3vBkfbFPK9YKm3DK9)
-
-## お問い合わせ
-このページの内容へのお問いあわせは、[kwaka1208@gmail.com](mailto:kwaka1208@gmail.com)までお願いします。
