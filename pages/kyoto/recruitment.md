@@ -55,5 +55,5 @@ sitemap: false
 - 公式サイト：[https://makezine.jp/event/mfk2024/](https://makezine.jp/event/mfk2024/)
 
 ## お問い合わせお待ちしています
-子どもプログラミング喫茶に関心を持ってくださった方、ぜひ[kwaka1208@gmail.com](mailto:kwaka1208@gmail.com)までメールでご連絡ください。京都店の店長若林がご案内します（[若林のプロフィールはこちら](https://crssrds.jp/about/){:target="_blank"}をご覧ください）
+子どもプログラミング喫茶に関心を持ってくださった方、ぜひ[hello@crssrds.jp](mailto:hello@crssrds.jp)までメールでご連絡ください。京都店の店長若林がご案内します（[若林のプロフィールはこちら](https://crssrds.jp/about/){:target="_blank"}をご覧ください）
 
